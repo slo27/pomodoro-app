@@ -2,13 +2,13 @@
 // import Home from "./Home"
 // import 'bootstrap/dist/css/bootstrap.min.css';
 // import Navbar from "./NavBar";
-
+import Timer from './Timer'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>this is the app.</p>
+        <Timer />
       </header>
     </div>
   );
