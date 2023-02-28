@@ -1,3 +1,7 @@
+// import { Route, Switch } from "react-router-dom";
+// import Home from "./Home"
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import Navbar from "./NavBar";
 
 
 function App() {
